@@ -1,4 +1,3 @@
 # Alteryx-Designer-Core
 
-Repository containing study materials for the 
-#Alteryx Designer Core Certification 
+Repository containing study materials for the Alteryx Designer Core Certification 
